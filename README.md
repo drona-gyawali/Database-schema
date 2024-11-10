@@ -1,4 +1,3 @@
-Got it! Here's a **README** tailored to your project, where you have only designed the **Hospital Management System database**. This updated version will focus on the database design and related queries, without involving the full system setup.
 
 ---
 
